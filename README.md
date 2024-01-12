@@ -1,2 +1,2 @@
 # aws-fundamentals
-Contains aws ec2 scripts &amp; CloudFormation
+Contains aws ec2 scripts &amp; CloudFormation files
